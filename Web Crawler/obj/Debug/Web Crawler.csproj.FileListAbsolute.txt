@@ -1,0 +1,77 @@
+G:\我的文件\雲科\專題\Web Crawler\Web Crawler\bin\Debug\Web Crawler.exe.config
+G:\我的文件\雲科\專題\Web Crawler\Web Crawler\bin\Debug\Web Crawler.exe
+G:\我的文件\雲科\專題\Web Crawler\Web Crawler\bin\Debug\Web Crawler.pdb
+G:\我的文件\雲科\專題\Web Crawler\Web Crawler\obj\Debug\Web Crawler.csprojResolveAssemblyReference.cache
+G:\我的文件\雲科\專題\Web Crawler\Web Crawler\obj\Debug\Web_Crawler.Properties.Resources.resources
+G:\我的文件\雲科\專題\Web Crawler\Web Crawler\obj\Debug\Web Crawler.csproj.GenerateResource.Cache
+G:\我的文件\雲科\專題\Web Crawler\Web Crawler\obj\Debug\Web Crawler.exe
+G:\我的文件\雲科\專題\Web Crawler\Web Crawler\obj\Debug\Web Crawler.pdb
+G:\我的文件\雲科\專題\Web Crawler\Web Crawler\bin\Debug\HtmlAgilityPack.dll
+G:\我的文件\雲科\專題\Web Crawler\Web Crawler\bin\Debug\HtmlAgilityPack.pdb
+G:\我的文件\雲科\專題\Web Crawler\Web Crawler\bin\Debug\HtmlAgilityPack.xml
+G:\我的文件\雲科\專題\Web Crawler\Web Crawler\obj\Debug\Web_Crawler.Form1.resources
+G:\我的文件\雲科\專題\Web Crawler\Web Crawler\obj\Debug\Web Crawler.csproj.ResolveComReference.cache
+D:\data\Web-Crawler1\Web Crawler\bin\Debug\Web Crawler.exe.config
+D:\data\Web-Crawler1\Web Crawler\obj\Debug\Web Crawler.csproj.ResolveComReference.cache
+D:\data\Web-Crawler1\Web Crawler\obj\Debug\Web Crawler.exe
+D:\data\Web-Crawler1\Web Crawler\obj\Debug\Web Crawler.pdb
+D:\data\Web-Crawler1\Web Crawler\bin\Debug\Web Crawler.exe
+D:\data\Web-Crawler1\Web Crawler\bin\Debug\Web Crawler.pdb
+D:\data\Web-Crawler1\Web Crawler\bin\Debug\HtmlAgilityPack.pdb
+D:\data\Web-Crawler1\Web Crawler\bin\Debug\HtmlAgilityPack.xml
+D:\data\Web-Crawler1\Web Crawler\obj\Debug\Web Crawler.csprojResolveAssemblyReference.cache
+D:\data\Web-Crawler1\Web Crawler\obj\Debug\Web_Crawler.Form1.resources
+D:\data\Web-Crawler1\Web Crawler\obj\Debug\Web_Crawler.Properties.Resources.resources
+D:\data\Web-Crawler1\Web Crawler\obj\Debug\Web Crawler.csproj.GenerateResource.Cache
+E:\Web-Crawler1\Web-Crawler1\Web Crawler\bin\Debug\Web Crawler.exe.config
+E:\Web-Crawler1\Web-Crawler1\Web Crawler\obj\Debug\Web Crawler.csproj.ResolveComReference.cache
+E:\Web-Crawler1\Web-Crawler1\Web Crawler\obj\Debug\Web Crawler.exe
+E:\Web-Crawler1\Web-Crawler1\Web Crawler\obj\Debug\Web Crawler.pdb
+E:\Web-Crawler1\Web-Crawler1\Web Crawler\bin\Debug\Web Crawler.exe
+E:\Web-Crawler1\Web-Crawler1\Web Crawler\bin\Debug\Web Crawler.pdb
+E:\Web-Crawler1\Web-Crawler1\Web Crawler\bin\Debug\HtmlAgilityPack.dll
+E:\Web-Crawler1\Web-Crawler1\Web Crawler\bin\Debug\HtmlAgilityPack.pdb
+E:\Web-Crawler1\Web-Crawler1\Web Crawler\bin\Debug\HtmlAgilityPack.xml
+E:\Web-Crawler1\Web-Crawler1\Web Crawler\obj\Debug\Web Crawler.csprojResolveAssemblyReference.cache
+E:\Web-Crawler1\Web-Crawler1\Web Crawler\obj\Debug\Web_Crawler.Form1.resources
+E:\Web-Crawler1\Web-Crawler1\Web Crawler\obj\Debug\Web_Crawler.Properties.Resources.resources
+E:\Web-Crawler1\Web-Crawler1\Web Crawler\obj\Debug\Web Crawler.csproj.GenerateResource.Cache
+E:\Web Crawler\Web Crawler\bin\Debug\Web Crawler.exe.config
+E:\Web Crawler\Web Crawler\obj\Debug\Web Crawler.csproj.ResolveComReference.cache
+E:\Web Crawler\Web Crawler\obj\Debug\Web Crawler.exe
+E:\Web Crawler\Web Crawler\obj\Debug\Web Crawler.pdb
+E:\Web Crawler\Web Crawler\bin\Debug\Web Crawler.exe
+E:\Web Crawler\Web Crawler\bin\Debug\Web Crawler.pdb
+E:\Web Crawler\Web Crawler\bin\Debug\HtmlAgilityPack.dll
+E:\Web Crawler\Web Crawler\bin\Debug\HtmlAgilityPack.pdb
+E:\Web Crawler\Web Crawler\bin\Debug\HtmlAgilityPack.xml
+E:\Web Crawler\Web Crawler\obj\Debug\Web Crawler.csprojResolveAssemblyReference.cache
+E:\Web Crawler\Web Crawler\obj\Debug\Web_Crawler.Form1.resources
+E:\Web Crawler\Web Crawler\obj\Debug\Web_Crawler.Properties.Resources.resources
+E:\Web Crawler\Web Crawler\obj\Debug\Web Crawler.csproj.GenerateResource.Cache
+G:\我的文件\雲科\專題\Web Crawler_2016_08_28 - 複製\Web Crawler\bin\Debug\Web Crawler.exe.config
+G:\我的文件\雲科\專題\Web Crawler_2016_08_28 - 複製\Web Crawler\obj\Debug\Web Crawler.csproj.ResolveComReference.cache
+G:\我的文件\雲科\專題\Web Crawler_2016_08_28 - 複製\Web Crawler\obj\Debug\Web Crawler.exe
+G:\我的文件\雲科\專題\Web Crawler_2016_08_28 - 複製\Web Crawler\obj\Debug\Web Crawler.pdb
+G:\我的文件\雲科\專題\Web Crawler_2016_08_28 - 複製\Web Crawler\obj\Debug\Web Crawler.csprojResolveAssemblyReference.cache
+G:\我的文件\雲科\專題\Web Crawler_2016_08_28 - 複製\Web Crawler\obj\Debug\Web_Crawler.Form1.resources
+G:\我的文件\雲科\專題\Web Crawler_2016_08_28 - 複製\Web Crawler\obj\Debug\Web_Crawler.Properties.Resources.resources
+G:\我的文件\雲科\專題\Web Crawler_2016_08_28 - 複製\Web Crawler\obj\Debug\Web Crawler.csproj.GenerateResource.Cache
+G:\我的文件\雲科\專題\Web Crawler_2016_08_28 - 複製\Web Crawler\bin\Debug\Web Crawler.exe
+G:\我的文件\雲科\專題\Web Crawler_2016_08_28 - 複製\Web Crawler\bin\Debug\Web Crawler.pdb
+G:\我的文件\雲科\專題\Web Crawler_2016_08_28 - 複製\Web Crawler\bin\Debug\HtmlAgilityPack.dll
+G:\我的文件\雲科\專題\Web Crawler_2016_08_28 - 複製\Web Crawler\bin\Debug\HtmlAgilityPack.pdb
+G:\我的文件\雲科\專題\Web Crawler_2016_08_28 - 複製\Web Crawler\bin\Debug\HtmlAgilityPack.xml
+G:\我的文件\雲科\專題\Web Crawler_2016_08_28 + 4Website\Web Crawler\bin\Debug\Web Crawler.exe.config
+G:\我的文件\雲科\專題\Web Crawler_2016_08_28 + 4Website\Web Crawler\obj\Debug\Web Crawler.csproj.ResolveComReference.cache
+G:\我的文件\雲科\專題\Web Crawler_2016_08_28 + 4Website\Web Crawler\obj\Debug\Web Crawler.exe
+G:\我的文件\雲科\專題\Web Crawler_2016_08_28 + 4Website\Web Crawler\obj\Debug\Web Crawler.pdb
+G:\我的文件\雲科\專題\Web Crawler_2016_08_28 + 4Website\Web Crawler\bin\Debug\Web Crawler.exe
+G:\我的文件\雲科\專題\Web Crawler_2016_08_28 + 4Website\Web Crawler\bin\Debug\Web Crawler.pdb
+G:\我的文件\雲科\專題\Web Crawler_2016_08_28 + 4Website\Web Crawler\bin\Debug\HtmlAgilityPack.dll
+G:\我的文件\雲科\專題\Web Crawler_2016_08_28 + 4Website\Web Crawler\bin\Debug\HtmlAgilityPack.pdb
+G:\我的文件\雲科\專題\Web Crawler_2016_08_28 + 4Website\Web Crawler\bin\Debug\HtmlAgilityPack.xml
+G:\我的文件\雲科\專題\Web Crawler_2016_08_28 + 4Website\Web Crawler\obj\Debug\Web Crawler.csprojResolveAssemblyReference.cache
+G:\我的文件\雲科\專題\Web Crawler_2016_08_28 + 4Website\Web Crawler\obj\Debug\Web_Crawler.Form1.resources
+G:\我的文件\雲科\專題\Web Crawler_2016_08_28 + 4Website\Web Crawler\obj\Debug\Web_Crawler.Properties.Resources.resources
+G:\我的文件\雲科\專題\Web Crawler_2016_08_28 + 4Website\Web Crawler\obj\Debug\Web Crawler.csproj.GenerateResource.Cache
